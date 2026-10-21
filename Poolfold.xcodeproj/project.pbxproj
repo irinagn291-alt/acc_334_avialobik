@@ -22,6 +22,7 @@
 		1ACD680F91EEC1E080086496 /* URLRequest+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3558071C59FFF025AB2A259F /* URLRequest+Alamofire.swift */; };
 		1B468403F6120DD26CCD80EA /* ReviewLaunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531FDCD0DBDCE1C912146BB9 /* ReviewLaunch.swift */; };
 		1BF834539B68A374671C52E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFA57D55E499CB9AF448F1D5 /* Assets.xcassets */; };
+		A1C0FFEE0A11C0DE00000002 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1C0FFEE0A11C0DE00000001 /* Assets.xcassets */; };
 		1DD1CB7323F73AD593A67B8D /* ResponseSerialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561A8BEB857ACAA357E722D4 /* ResponseSerialization.swift */; };
 		2115010AA3D51796DCE273D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566E758A0DD719B905E0997F /* AppDelegate.swift */; };
 		240AEA5054A89E9366F2E532 /* AuthenticationInterceptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB0A27250CCC4B91B7C8AA6 /* AuthenticationInterceptor.swift */; };
@@ -209,6 +210,7 @@
 		CB99E0B929C6DA96E145A0A6 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		CC1D583A4E049B357D25BBE2 /* StationHealthCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationHealthCalculator.swift; sourceTree = "<group>"; };
 		CE1258A497B3D8DD9388935F /* MultipartFormData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipartFormData.swift; sourceTree = "<group>"; };
+		A1C0FFEE0A11C0DE00000001 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFA57D55E499CB9AF448F1D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1E02514505E390FDA748FBE /* SessionVault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionVault.swift; sourceTree = "<group>"; };
 		D747D2E14243E35ABFE0F8CC /* ShiftTimelineSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiftTimelineSheet.swift; sourceTree = "<group>"; };
@@ -449,6 +451,7 @@
 		C4576ABAECE2E136341C3ADF /* PoolfoldWatch */ = {
 			isa = PBXGroup;
 			children = (
+				A1C0FFEE0A11C0DE00000001 /* Assets.xcassets */,
 				8D38CDEC4BD92072A1E01012 /* WatchRoot.swift */,
 			);
 			path = PoolfoldWatch;
@@ -542,6 +545,7 @@
 			buildConfigurationList = 247E8F0676716C7CEBFDDC37 /* Build configuration list for PBXNativeTarget "PoolfoldWatch" */;
 			buildPhases = (
 				5E9ADB6F7C19DA135FFAACB7 /* Sources */,
+				A1C0FFEE0A11C0DE00000003 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -600,6 +604,14 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		A1C0FFEE0A11C0DE00000003 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A1C0FFEE0A11C0DE00000002 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		47B444D2D4D62E8E0AEA7B84 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
