@@ -1,4 +1,4 @@
-<!-- gf-brief source=359920221bc8ff4ee56dbc4e52bd88cdc5419642e793eb231431140808e739e3 written=2026-10-22T02:36:49+03:00 -->
+<!-- gf-brief source=359920221bc8ff4ee56dbc4e52bd88cdc5419642e793eb231431140808e739e3 written=2026-10-22T02:37:00+03:00 -->
 # Poolfold
 ## What it is
 Poolfold is a dark, full-screen house desk for one night on the floor. It splits an opening cash amount across named doors, rings walk-ins once every door is seated, and runs an eight-name house card. It is for the person working that night: seating cash, counting doors, and advancing the on-deck pair.
