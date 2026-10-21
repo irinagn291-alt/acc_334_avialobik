@@ -1,0 +1,13 @@
+പതിപ്പ് 1.0 Poolfold-ന്റെ ആദ്യ പുറത്തിറക്കലാണ്.
+
+• "Cash", "Place", "Ring" എന്ന മൂന്ന് താളുള്ള ആമുഖം. "Next", "Continue", "Skip" ഉണ്ട്.
+• നില "Open" ആയി തുടങ്ങുന്നു. വാതിലുകൾ "North door", "East door", "West door", "Box office". തുടക്ക പണം $140.00. "Remaining lot" ചിപ്പ്.
+• തിരഞ്ഞ വാതിലിൽ "Seat cash", അല്ലെങ്കിൽ ചിപ്പ് വാതിലിൽ ഇട്ട്.
+• എല്ലാ വാതിലും ഇരുത്തിയ ശേഷം "Ring walk-in" $8.00. "Comp member" / "Comp admission": പണം ചേരാത്ത അംഗ നമ്പർ.
+• "Clock": തുടക്ക പട്ടിക, "Add name", "Clock in".
+• "House card": എട്ട് പേരുകൾ, "Seed pairings", "Advance on deck", ഓൺ-ഡെക്ക് പേര് ബട്ടണുകൾ.
+• "Finance": "Count this door", "Counted", "Post the count". ആകെത്തുകകൾ "Opening", "Seated", "Walk-ins", "Day".
+• "Settings": "Opening cash", "Save cash", "Log maint", "Show intro again", "Reset all data", "Contact Avialobik".
+• "Goals": "Night target met" വരെ "Still to place".
+• രാത്രി ഈ ഉപകരണത്തിൽ നിൽക്കും. "Reset all data" വരെ അടുത്ത തുറക്കലിൽ തിരികെ വരും.
+• വാച്ച് മുഖം "Doors" ഉം "Seat the open cash on the door." ഉം കാണിക്കുന്നു. രാത്രി തിരുത്തുന്നില്ല.

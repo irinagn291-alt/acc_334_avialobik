@@ -1,0 +1,14 @@
+Avialobik ഒരു രാത്രിയുടെ നിലയ്ക്കുള്ള ഇരുണ്ട മുഴുവൻ സ്ക്രീൻ ഹൗസ് ഡെസ്ക് ആണ്. തുടക്കത്തിലെ പണം പേരുള്ള വാതിലുകളിലായി വിഭജിക്കുന്നു, എല്ലാ വാതിലും ഇരുത്തിയ ശേഷം വാക്ക്-ഇൻ ഒരിക്കൽ അടിക്കുന്നു, എട്ടു പേരുള്ള ഹൗസ് കാർഡ് നടത്തുന്നു. ആ രാത്രി ജോലി ചെയ്യുന്ന ആൾക്കുള്ളതാണ്: കാഷ് ഇരുത്തൽ, വാതിലുകൾ എണ്ണൽ, ഓൺ-ഡെക്ക് ജോഡി മുന്നോട്ട് കൊണ്ടുപോകൽ.
+
+• "Cash", "Place", "Ring" എന്ന ആമുഖ താളുകൾ. "Next", "Continue", "Skip" ഉണ്ട്.
+• നാല് വാതിലുകൾ: "North door", "East door", "West door", "Box office". പരിധികൾ $50.00, $40.00, $30.00, $20.00. "Cash"-ൽ തുടക്ക പണം $140.00.
+• വലിച്ചിടാവുന്ന "Remaining lot" ചിപ്പ്. തിരഞ്ഞ വാതിലിൽ "Seat cash". വാതിൽ വരികൾ "Health … Cash …", "Health … Cap …". "Health" വാതിലിന്റെ സ്കോറാണ്.
+• എല്ലാ വാതിലും ഇരുത്തിയ ശേഷം "Ring walk-in" $8.00 വാക്ക്-ഇൻ രേഖപ്പെടുത്തുന്നു. "Comp member" "Comp" തുറക്കുന്നു. "Comp admission" 8 മുതൽ 14 അക്ക "Member number"-ിന് $0.00 ചേർക്കുന്ന വാക്ക്-ഇൻ രേഖപ്പെടുത്തുന്നു.
+• "Clock" പട്ടികയും തുറന്ന ഷിഫ്റ്റും കാണിക്കുന്നു. "Add name", "Clock in" ഉണ്ട്. തുടക്ക പേരുകൾ "Ada Quill" ("Treasurer"), "Moss Keene" ("Door"), "Ivo Brant" ("House").
+• "Bracket" "House card" കാണിക്കുന്നു: "Nim", "Pell", "Sora", "Vetch", "Quill", "Hart", "Bram", "Lark". "Seed pairings" ജോഡികൾ ഉണ്ടാക്കുന്നു. "Advance on deck" ഉം ഓൺ-ഡെക്ക് പേര് ബട്ടണുകളും വിജയിയെ രേഖപ്പെടുത്തുന്നു.
+• "Finance" "Count this door" അല്ലെങ്കിൽ "Counted" അടയാളപ്പെടുത്തുന്നു, പിന്നെ "Post the count". ആകെത്തുകകൾ "Opening", "Seated", "Walk-ins", "Day".
+• "Settings", തലക്കെട്ട് "Desk": "Opening cash", "Save cash", "Log maint", "Show intro again", "Reset all data", "Contact Avialobik".
+• "Goals" "Still to place" കാണിക്കുന്നു. അടിഭാഗ ബട്ടൺ "Night target met" ആകും വരെ കാഷ് ഇരുത്തുന്നു.
+• "Reset all data" വരെ അടുത്ത തുറക്കലിലും അതേ രാത്രി തിരികെ വരും. വാച്ച് മുഖം "Doors" ഉം "Seat the open cash on the door." ഉം കാണിക്കുന്നു. രാത്രി തിരുത്തുന്നില്ല.
+
+തുകകൾ രണ്ട് ദശാംശ സ്ഥാനമുള്ള യുഎസ് ഡോളറാണ്. ഇന്റർഫേസ് ഇരുണ്ടതാണ്. സൈൻ-ഇൻ ഇല്ല. കുറഞ്ഞ iOS പതിപ്പ് 17.0 ആണ്.

@@ -1,0 +1,13 @@
+Version 1.0 is the first release of Poolfold.
+
+• A three-page intro titled "Cash", "Place", and "Ring", with "Next", "Continue", and "Skip".
+• A floor that starts "Open", with doors "North door", "East door", "West door", and "Box office", opening cash of $140.00, and a "Remaining lot" chip.
+• "Seat cash" on the selected door, or by dropping the chip on a door.
+• "Ring walk-in" at $8.00 after every door is seated, and "Comp member" / "Comp admission" for a member number that adds no cash.
+• "Clock" with the starter roster, "Add name", and "Clock in".
+• "House card" with eight names, "Seed pairings", "Advance on deck", and on-deck name buttons.
+• "Finance" with "Count this door", "Counted", "Post the count", and totals "Opening", "Seated", "Walk-ins", and "Day".
+• "Settings" with "Opening cash", "Save cash", "Log maint", "Show intro again", "Reset all data", and "Contact Avialobik".
+• "Goals" with "Still to place" until "Night target met".
+• The night stays on this device and returns on the next launch until "Reset all data".
+• A Watch face that shows "Doors" and "Seat the open cash on the door." It does not edit the night.

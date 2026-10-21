@@ -1,0 +1,14 @@
+Avialobik is a dark, full-screen house desk for one night on the floor. It splits an opening cash amount across named doors, rings walk-ins once every door is seated, and runs an eight-name house card. It is for the person working that night: seating cash, counting doors, and advancing the on-deck pair.
+
+• Intro pages "Cash", "Place", and "Ring", with "Next", "Continue", and "Skip".
+• Four doors — "North door", "East door", "West door", and "Box office" — with caps of $50.00, $40.00, $30.00, and $20.00. Opening cash is $140.00 under "Cash".
+• A draggable "Remaining lot" chip, and "Seat cash" on the selected door. Door lines read "Health … Cash …" and "Health … Cap …". "Health" is a door score.
+• "Ring walk-in" posts an $8.00 walk-in once every door is seated. "Comp member" opens "Comp", where "Comp admission" posts a walk-in that adds $0.00 for a "Member number" of 8 to 14 digits.
+• "Clock" shows the roster and an open shift, with "Add name" and "Clock in". Starter names are "Ada Quill" ("Treasurer"), "Moss Keene" ("Door"), and "Ivo Brant" ("House").
+• "Bracket" shows the "House card" with "Nim", "Pell", "Sora", "Vetch", "Quill", "Hart", "Bram", and "Lark". "Seed pairings" builds the pairs. "Advance on deck" and on-deck name buttons post the winner.
+• "Finance" marks "Count this door" or "Counted", then "Post the count". Totals are "Opening", "Seated", "Walk-ins", and "Day".
+• "Settings", headed "Desk", has "Opening cash", "Save cash", "Log maint", "Show intro again", "Reset all data", and "Contact Avialobik".
+• "Goals" shows "Still to place" and seats cash until the bottom button reads "Night target met".
+• The same night returns on the next launch until "Reset all data". A Watch face shows "Doors" and "Seat the open cash on the door." It does not edit the night.
+
+Amounts are in US dollars, with two decimal places. The interface is dark. There is no sign-in. The minimum iOS version is 17.0.
