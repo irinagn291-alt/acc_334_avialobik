@@ -69,6 +69,8 @@ targets:
         PRODUCT_BUNDLE_IDENTIFIER: com.poolfold.floor.watchkitapp
         PRODUCT_NAME: PoolfoldWatch
         GENERATE_INFOPLIST_FILE: YES
+        CURRENT_PROJECT_VERSION: 1
+        MARKETING_VERSION: "1.0.0"
         INFOPLIST_KEY_CFBundleDisplayName: Avialobik
         INFOPLIST_KEY_WKCompanionAppBundleIdentifier: com.poolfold.floor
         WATCHOS_DEPLOYMENT_TARGET: "26.0"
