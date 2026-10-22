@@ -50,6 +50,8 @@ targets:
         PRODUCT_BUNDLE_IDENTIFIER: com.poolfold.floor.alamofire
         PRODUCT_NAME: Alamofire
         GENERATE_INFOPLIST_FILE: YES
+        CURRENT_PROJECT_VERSION: 1
+        MARKETING_VERSION: "1.0.0"
         DEFINES_MODULE: YES
         SWIFT_VERSION: "5.0"
         SWIFT_STRICT_CONCURRENCY: minimal
