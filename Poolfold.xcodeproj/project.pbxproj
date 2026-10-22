@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		02EBCE8175B68F956270238F /* SessionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9642AF901CC74876DD2308B5 /* SessionDelegate.swift */; };
-		04B97F2468DCECF0DC9C88FC /* ReviewLaunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531FDCD0DBDCE1C912146BB9 /* ReviewLaunch.swift */; };
 		052A6AFF02F97064C5666E50 /* DispatchQueue+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = E215461C9621CC941AF3AAA1 /* DispatchQueue+Alamofire.swift */; };
 		063C04F38B4799F9B0B42876 /* AppConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A2F267C6401F3F3F5A6A2E9 /* AppConfiguration.swift */; };
 		0C958BD77A86BD8513F731F3 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = CB99E0B929C6DA96E145A0A6 /* PrivacyInfo.xcprivacy */; };
@@ -22,13 +21,11 @@
 		1ACD680F91EEC1E080086496 /* URLRequest+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3558071C59FFF025AB2A259F /* URLRequest+Alamofire.swift */; };
 		1B468403F6120DD26CCD80EA /* ReviewLaunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 531FDCD0DBDCE1C912146BB9 /* ReviewLaunch.swift */; };
 		1BF834539B68A374671C52E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFA57D55E499CB9AF448F1D5 /* Assets.xcassets */; };
-		A1C0FFEE0A11C0DE00000002 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1C0FFEE0A11C0DE00000001 /* Assets.xcassets */; };
 		1DD1CB7323F73AD593A67B8D /* ResponseSerialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561A8BEB857ACAA357E722D4 /* ResponseSerialization.swift */; };
 		2115010AA3D51796DCE273D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566E758A0DD719B905E0997F /* AppDelegate.swift */; };
 		240AEA5054A89E9366F2E532 /* AuthenticationInterceptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB0A27250CCC4B91B7C8AA6 /* AuthenticationInterceptor.swift */; };
 		244274203AEC2AED586E8CE3 /* Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D59CB2F40DE62BD557B36A /* Combine.swift */; };
 		25CBA047299168F3CF118566 /* AFError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74644141A3CB43AF291BF35C /* AFError.swift */; };
-		2719D395D8AFE2A7C3838B8C /* WatchRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D38CDEC4BD92072A1E01012 /* WatchRoot.swift */; };
 		29093F623A74E489AAF7BB88 /* APIConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DAA66A2A4FBEC8E284DAD76 /* APIConfig.swift */; };
 		2B797CCE97564F8C08C5806F /* LotDynamicsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 514203141000418C9E26F62F /* LotDynamicsController.swift */; };
 		2C54EE0EADADB4B7348DF256 /* OfflineRetrier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FEE2105808F4F1809D1D6F0 /* OfflineRetrier.swift */; };
@@ -64,7 +61,6 @@
 		9474B6892382B266C5844D47 /* MultipartUpload.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2786417E8FF8DC1771ECB1C3 /* MultipartUpload.swift */; };
 		972954F8BF00907EAC41AC9B /* FloorFoldEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC22E64294166B57A7820FC2 /* FloorFoldEngine.swift */; };
 		9BF071CFF9BD6A5D5FF0921B /* OperationQueue+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 696571E27D7CAD19F8CB3E87 /* OperationQueue+Alamofire.swift */; };
-		9CB4C4B5B59176D7BD9D94C2 /* PoolfoldWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 5C85D53CB901F526A0D2F049 /* PoolfoldWatch.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		9D75F59B4DD633B534F4BB85 /* FloorModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99516137BA76A50D89441CE3 /* FloorModels.swift */; };
 		A02BB23C7D6D2B57136860C2 /* DesignTokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52C0501CF6F728D6C5CD94D /* DesignTokens.swift */; };
 		A580908F9D001FAC4FF8827D /* RetryPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71ADF9464D1368B7D432BEB9 /* RetryPolicy.swift */; };
@@ -95,13 +91,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		1B39FD55D7BE4A1D90EDCD22 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 6D10335E3F11E8F2710DE4D8 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = FC9C1EE2BD440BC7CB5F7ACE;
-			remoteInfo = PoolfoldWatch;
-		};
 		98A7079A7EBB46B3E9A789D2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 6D10335E3F11E8F2710DE4D8 /* Project object */;
@@ -119,17 +108,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		3EB5148AA2401F21E3445B3B /* Embed Watch Content */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
-			dstSubfolderSpec = 16;
-			files = (
-				9CB4C4B5B59176D7BD9D94C2 /* PoolfoldWatch.app in Embed Watch Content */,
-			);
-			name = "Embed Watch Content";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8CA1A1155D5C9326B4327E74 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -170,7 +148,6 @@
 		561A8BEB857ACAA357E722D4 /* ResponseSerialization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponseSerialization.swift; sourceTree = "<group>"; };
 		566E758A0DD719B905E0997F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5B1715983411D50B85FE72FD /* StringEncoding+Alamofire.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "StringEncoding+Alamofire.swift"; sourceTree = "<group>"; };
-		5C85D53CB901F526A0D2F049 /* PoolfoldWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PoolfoldWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6765AFCEBC5679CADB4DE431 /* GeorgiaTypography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeorgiaTypography.swift; sourceTree = "<group>"; };
 		696571E27D7CAD19F8CB3E87 /* OperationQueue+Alamofire.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OperationQueue+Alamofire.swift"; sourceTree = "<group>"; };
 		6A2F267C6401F3F3F5A6A2E9 /* AppConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfiguration.swift; sourceTree = "<group>"; };
@@ -187,7 +164,6 @@
 		86F02665F659DF4AEE7AA10A /* Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
 		87283984F1E2B82F73DA558B /* HTTPHeaders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPHeaders.swift; sourceTree = "<group>"; };
 		87DB8BE47AE5581D4CB559D8 /* DataEncoding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataEncoding.swift; sourceTree = "<group>"; };
-		8D38CDEC4BD92072A1E01012 /* WatchRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchRoot.swift; sourceTree = "<group>"; };
 		9219027B8DE8224B8634E840 /* SettingsSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsSheet.swift; sourceTree = "<group>"; };
 		9642AF901CC74876DD2308B5 /* SessionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionDelegate.swift; sourceTree = "<group>"; };
 		99516137BA76A50D89441CE3 /* FloorModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloorModels.swift; sourceTree = "<group>"; };
@@ -210,7 +186,6 @@
 		CB99E0B929C6DA96E145A0A6 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		CC1D583A4E049B357D25BBE2 /* StationHealthCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationHealthCalculator.swift; sourceTree = "<group>"; };
 		CE1258A497B3D8DD9388935F /* MultipartFormData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipartFormData.swift; sourceTree = "<group>"; };
-		A1C0FFEE0A11C0DE00000001 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFA57D55E499CB9AF448F1D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1E02514505E390FDA748FBE /* SessionVault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionVault.swift; sourceTree = "<group>"; };
 		D747D2E14243E35ABFE0F8CC /* ShiftTimelineSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiftTimelineSheet.swift; sourceTree = "<group>"; };
@@ -329,7 +304,6 @@
 				3A5D09AC1F9A249EE3B9C621 /* Alamofire.framework */,
 				BC0A78F29D5BE6E5690A2F0D /* Poolfold.app */,
 				84C013A6D324E56260DDB270 /* PoolfoldTests.xctest */,
-				5C85D53CB901F526A0D2F049 /* PoolfoldWatch.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -434,7 +408,6 @@
 			children = (
 				26525F4F178DE93FDCAC099C /* Poolfold */,
 				0F24EBE3E12F6F30D34DEAC4 /* PoolfoldTests */,
-				C4576ABAECE2E136341C3ADF /* PoolfoldWatch */,
 				BAABD575248AA8A4F2AD2FB1 /* Vendor */,
 				486C9EECE6EB3D927DA2C1E2 /* Products */,
 			);
@@ -446,15 +419,6 @@
 				6EE737B3CF7963829C8C113A /* Alamofire */,
 			);
 			path = Vendor;
-			sourceTree = "<group>";
-		};
-		C4576ABAECE2E136341C3ADF /* PoolfoldWatch */ = {
-			isa = PBXGroup;
-			children = (
-				A1C0FFEE0A11C0DE00000001 /* Assets.xcassets */,
-				8D38CDEC4BD92072A1E01012 /* WatchRoot.swift */,
-			);
-			path = PoolfoldWatch;
 			sourceTree = "<group>";
 		};
 		F035FF0B2F0C05DA1DB859C8 /* Design */ = {
@@ -525,12 +489,10 @@
 				47B444D2D4D62E8E0AEA7B84 /* Resources */,
 				AA57A0BA2C217497989A0658 /* Frameworks */,
 				8CA1A1155D5C9326B4327E74 /* Embed Frameworks */,
-				3EB5148AA2401F21E3445B3B /* Embed Watch Content */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				16049F708A2F361B47111F5F /* PBXTargetDependency */,
 				25C3A1EF25ED28883DAA4F4C /* PBXTargetDependency */,
 			);
 			name = Poolfold;
@@ -538,24 +500,6 @@
 			);
 			productName = Poolfold;
 			productReference = BC0A78F29D5BE6E5690A2F0D /* Poolfold.app */;
-			productType = "com.apple.product-type.application";
-		};
-		FC9C1EE2BD440BC7CB5F7ACE /* PoolfoldWatch */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 247E8F0676716C7CEBFDDC37 /* Build configuration list for PBXNativeTarget "PoolfoldWatch" */;
-			buildPhases = (
-				5E9ADB6F7C19DA135FFAACB7 /* Sources */,
-				A1C0FFEE0A11C0DE00000003 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = PoolfoldWatch;
-			packageProductDependencies = (
-			);
-			productName = PoolfoldWatch;
-			productReference = 5C85D53CB901F526A0D2F049 /* PoolfoldWatch.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -576,9 +520,6 @@
 					FA4C79C4FF483777BF15F7F2 = {
 						ProvisioningStyle = Automatic;
 					};
-					FC9C1EE2BD440BC7CB5F7ACE = {
-						ProvisioningStyle = Automatic;
-					};
 				};
 			};
 			buildConfigurationList = 64A745E4BF9039F25839361F /* Build configuration list for PBXProject "Poolfold" */;
@@ -597,21 +538,12 @@
 			targets = (
 				FA4C79C4FF483777BF15F7F2 /* Poolfold */,
 				8CB540BBB6DEC459A6B01114 /* Alamofire */,
-				FC9C1EE2BD440BC7CB5F7ACE /* PoolfoldWatch */,
 				0061ADB49308461748EC89B5 /* PoolfoldTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A1C0FFEE0A11C0DE00000003 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A1C0FFEE0A11C0DE00000002 /* Assets.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		47B444D2D4D62E8E0AEA7B84 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -631,15 +563,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5E9ADB6F7C19DA135FFAACB7 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				04B97F2468DCECF0DC9C88FC /* ReviewLaunch.swift in Sources */,
-				2719D395D8AFE2A7C3838B8C /* WatchRoot.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		6FA03ADEBDB4B49555F79B99 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -741,11 +664,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		16049F708A2F361B47111F5F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = FC9C1EE2BD440BC7CB5F7ACE /* PoolfoldWatch */;
-			targetProxy = 1B39FD55D7BE4A1D90EDCD22 /* PBXContainerItemProxy */;
-		};
 		25C3A1EF25ED28883DAA4F4C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 8CB540BBB6DEC459A6B01114 /* Alamofire */;
@@ -767,7 +685,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Poolfold;
+				INFOPLIST_KEY_CFBundleDisplayName = Avialobik;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -846,11 +764,11 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_STRICT_CONCURRENCY = complete;
 				SWIFT_VERSION = 6.2;
-				WATCHOS_DEPLOYMENT_TARGET = 26.0;
 			};
 			name = Debug;
 		};
@@ -862,7 +780,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Poolfold;
+				INFOPLIST_KEY_CFBundleDisplayName = Avialobik;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -934,11 +852,11 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_STRICT_CONCURRENCY = complete;
 				SWIFT_VERSION = 6.2;
-				WATCHOS_DEPLOYMENT_TARGET = 26.0;
 			};
 			name = Release;
 		};
@@ -998,26 +916,6 @@
 			};
 			name = Release;
 		};
-		CF58D41426A734394E858E7D /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Poolfold;
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.poolfold.floor;
-				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.poolfold.floor.watchkitapp;
-				PRODUCT_NAME = PoolfoldWatch;
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SWIFT_STRICT_CONCURRENCY = complete;
-				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 26.0;
-			};
-			name = Release;
-		};
 		CFF6FDDF766BF9422A2212B6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1036,26 +934,6 @@
 				SWIFT_VERSION = 6.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Poolfold.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Poolfold";
-			};
-			name = Debug;
-		};
-		EC7068A9EF366B32315731DF /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Poolfold;
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.poolfold.floor;
-				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.poolfold.floor.watchkitapp;
-				PRODUCT_NAME = PoolfoldWatch;
-				SDKROOT = watchos;
-				SKIP_INSTALL = YES;
-				SWIFT_STRICT_CONCURRENCY = complete;
-				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 26.0;
 			};
 			name = Debug;
 		};
@@ -1083,15 +961,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		247E8F0676716C7CEBFDDC37 /* Build configuration list for PBXNativeTarget "PoolfoldWatch" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EC7068A9EF366B32315731DF /* Debug */,
-				CF58D41426A734394E858E7D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Debug;
-		};
 		3E7B809B41AB515C6E92EE3E /* Build configuration list for PBXNativeTarget "Alamofire" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
